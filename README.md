@@ -14,8 +14,9 @@ Este repositório contém dois exercícios práticos desenvolvidos em **HTML, Ja
 │   └── orador.html
 │
 └── exerc-02/
-    ├── app.js
-    └── contador.html
+│   ├── js/
+│   │   └── app.js
+│   └── contador.html
 ```
 
 ## 💻 Exercício 01 — Informação do Orador
